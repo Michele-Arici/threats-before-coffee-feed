@@ -5,8 +5,8 @@
 <link>https://michele-arici.github.io/threats-before-coffee-feed/</link>
 <atom:link href="https://michele-arici.github.io/threats-before-coffee-feed/feed.xml" rel="self" type="application/rss+xml"/>
 <language>en</language>
-<description><![CDATA[Threats Before Coffee is a daily briefing on the stories that matter in cybersecurity, artificial intelligence and the tech world - including the geopolitics and money behind them. Only the important stuff, every morning, 7 days a week. Fully AI-produced: stories are researched and verified by Claude and voiced with NotebookLM Audio Overviews. Sources for every episode are in the show notes.]]></description>
-<itunes:summary><![CDATA[Threats Before Coffee is a daily briefing on the stories that matter in cybersecurity, artificial intelligence and the tech world - including the geopolitics and money behind them. Only the important stuff, every morning, 7 days a week. Fully AI-produced: stories are researched and verified by Claude and voiced with NotebookLM Audio Overviews. Sources for every episode are in the show notes.]]></itunes:summary>
+<description><![CDATA[Your daily cyber, AI and tech briefing, served before the first coffee. Every morning, 7 days a week, Threats Before Coffee covers only the stories that matter: exploited vulnerabilities, major breaches, nation-state hacks, AI breakthroughs, and the geopolitics and money behind them. Fully AI-produced: researched and fact-checked by Claude, voiced with NotebookLM. Sources in every episode's notes.]]></description>
+<itunes:summary><![CDATA[Your daily cyber, AI and tech briefing, served before the first coffee. Every morning, 7 days a week, Threats Before Coffee covers only the stories that matter: exploited vulnerabilities, major breaches, nation-state hacks, AI breakthroughs, and the geopolitics and money behind them. Fully AI-produced: researched and fact-checked by Claude, voiced with NotebookLM. Sources in every episode's notes.]]></itunes:summary>
 <itunes:subtitle>Your daily cyber, AI and tech briefing - before the first coffee.</itunes:subtitle>
 <itunes:author>Threats Before Coffee</itunes:author>
 <itunes:owner><itunes:name>Threats Before Coffee</itunes:name><itunes:email>michele03.arici03@gmail.com</itunes:email></itunes:owner>
@@ -16,7 +16,7 @@
 <itunes:category text="News"><itunes:category text="Tech News"/></itunes:category>
 <itunes:explicit>false</itunes:explicit>
 <itunes:type>episodic</itunes:type>
-<lastBuildDate>Wed, 25 Nov 2026 09:42:16 +0000</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 10:22:10 +0000</lastBuildDate>
 <generator>threats-before-coffee</generator>
 <item>
 <title>AI hackers hit Check Point, CIA system breached, CrowdStrike buys Zscaler</title>
@@ -24,9 +24,9 @@
 <content:encoded><![CDATA[<p>Welcome to the very first episode of Threats Before Coffee: the cyber, AI and tech stories that matter, before your first coffee.</p><p>In this episode:</p><ul><li>AI-assisted attackers compromise Check Point management servers at 22 organizations - <a href="https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations/">BleepingComputer</a>, <a href="https://www.securityweek.com/check-point-security-management-servers-hacked-in-ai-assisted-campaign/">SecurityWeek</a></li><li>China-linked group chains PHP2Shell and Fragnesia to root Palo Alto firewalls - <a href="https://www.securityweek.com/palo-alto-networks-patches-fragnesia-flaw-used-to-root-firewalls/">SecurityWeek</a></li><li>UK NCSC: AI-driven attacks expose years of weak security - <a href="https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/">TechCrunch</a></li><li>Unclassified CIA/ODNI intelligence analysis system breached - <a href="https://cyberscoop.com/cia-odni-osint-data-breach/">CyberScoop</a>, <a href="https://www.securityweek.com/an-unclassified-cia-system-was-breached-in-a-cyberattack-ap-source-says/">SecurityWeek/AP</a></li><li>CrowdStrike to acquire Zscaler for ~$43.9B - <a href="https://www.crowdstrike.com/en-us/press-releases/crowdstrike-to-acquire-zscaler-bringing-network-security-and-zero-trust-to-the-falcon-platform/">CrowdStrike</a></li><li>Jensen Huang's first day back at Nvidia; Huawei convicted; Megaspeed blacklisted - <a href="https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html">CNBC</a>, <a href="https://www.cnbc.com/2026/11/25/huawei-fraud-trade-trial.html">CNBC</a></li><li>Patch watch: VMware vCenter CVE-2026-123903, Drupal CVE-2026-132165, N-able MailAssure - <a href="https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html">The Hacker News</a>, <a href="https://www.securityweek.com/drupal-flaw-found-by-anthropic-scanner-exploited-in-attacks/">SecurityWeek</a></li><li>OpenAI and Cisco release Shirudo - <a href="https://openai.com/index/introducing-shirudo/">OpenAI</a></li><li>Anthropic slips below its IPO price - <a href="https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html">CNBC</a></li><li>Quick hits: Rackspace Spot shutdown, Radware breach, Azure API Management abuse in Norway, tankers hacked, OpenAI's matrix multiplication preprint</li></ul><p>Threats Before Coffee is produced with AI: research and scripts by Claude (Anthropic), voices by NotebookLM. Always check the sources before acting.</p>]]></content:encoded>
 <itunes:summary><![CDATA[Episode one: AI-assisted attackers break into Check Point firewall management servers, an unclassified CIA/ODNI system is breached, CrowdStrike agrees to buy Zscaler for ~$44B, and Jensen Huang's messy first day back at Nvidia.]]></itunes:summary>
 <pubDate>Wed, 25 Nov 2026 10:42:16 +0100</pubDate>
-<enclosure url="https://github.com/Michele-Arici/threats-before-coffee-feed/releases/download/2026-11-25/tbc-2026-11-25.mp3" length="37449697" type="audio/mpeg"/>
+<enclosure url="https://github.com/Michele-Arici/threats-before-coffee-feed/releases/download/2026-11-25/tbc-2026-11-25-v2.mp3" length="17006791" type="audio/mpeg"/>
 <guid isPermaLink="false">tbc-2026-11-25</guid>
-<itunes:duration>00:52:01</itunes:duration>
+<itunes:duration>00:23:37</itunes:duration>
 <itunes:episode>1</itunes:episode>
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:explicit>false</itunes:explicit>
